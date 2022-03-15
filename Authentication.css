@@ -1,0 +1,33 @@
+.authentication{
+    display:flex;
+    object-fit: contain;
+    justify-content: space-evenly;
+    background-color: indianred;
+    color:white;
+    box-sizing: border-box;
+    border: 1.5px solid black;
+    border-radius: 8px;
+    margin-top:20%;
+    width:max-content;
+    height:max-content;
+    margin-left: 40%;
+    padding: 30px;
+}
+.butto{
+    margin-top:16px;
+    margin-left:10px;
+
+   
+}
+.butto>button{
+    background-color: darkgoldenrod;
+    color:White;
+    font-size: medium;
+    border: 1px solid black;
+    padding:5px
+
+
+}
+.input{
+    width:95%
+}
